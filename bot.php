@@ -103,8 +103,8 @@ if($message['type']=='text') {
 							'replyToken' => $replyToken,														
 							'messages' => array(
 								array(
-										'type' => 'text',									
-										'text' => 'Jangan pake itu stiker, dapet hadiah Kuis di Konkow jg Lo :v ^'										
+										'type' => 'Sticker',									
+										'text' => 'Jangan pake itu stiker, dapet hadiah Kuis di Konkow jg Lo :v '										
 									
 									)
 							)
